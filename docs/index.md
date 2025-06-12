@@ -4,10 +4,10 @@ hide_table_of_contents: false
 sidebar_position: 1
 ---
 
-Velkommen til NAVs Security Playbook – inngangen til alt du trenger for å jobbe med sikkerhet i produktteam.
+Velkommen til Navs Security Playbook – inngangen til alt du trenger for å jobbe med sikkerhet i produktteam.
 
 :::note
-Vi forsøker hardt å holde denne playbooken så åpen som mulig, men av og til må noen ting begrenses av hensyn til sikkerhet eller copyright og lisenser. Noen av linkene her vil derfor føre til steder som krever at du [jobber i NAV](https://www.detsombetyrnoe.no/) og har en [skikkelig nais device](https://doc.nais.io/device/).
+Vi forsøker hardt å holde denne playbooken så åpen som mulig, men av og til må noen ting begrenses av hensyn til sikkerhet eller copyright og lisenser. Noen av linkene her vil derfor føre til steder som krever at du [jobber i Nav](https://www.detsombetyrnoe.no/) og har en [skikkelig nais device](https://doc.nais.io/device/).
 :::
 
 ## Hva finner du her?
@@ -22,7 +22,7 @@ Det du trenger i det daglige. For eksempel:
 
 ### 2. Informasjon om det du kanskje ikke har hørt om 💭
 
-På siden [«Sikker utvikling i NAV IT»](/docs/sikker-utvikling) finner du en oversikt over temaer som burde være interessante for alle produktteam. Det anbefales å titte innom alle sammen, og spesielt hvis det er noe du ikke har hørt om før!
+På siden [«Sikker utvikling i Nav IT»](/docs/sikker-utvikling) finner du en oversikt over temaer som burde være interessante for alle produktteam. Det anbefales å titte innom alle sammen, og spesielt hvis det er noe du ikke har hørt om før!
 
 ### 3. Fellesskap 💖
 
