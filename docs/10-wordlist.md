@@ -226,7 +226,7 @@ En gruppe som spiller rollen som trusselaktør og med eierens tillatelse tester 
 
 En av grunnsteinene i sikkerhetsmodellen på weben. En `origin` er et sted der innhold er lastet fra og består av kombinasjonen protokoll, host og port. `http://www.nav.no` er ikke det samme som `http://pensjon.nav.no` fordi hosten er forskjellig, `http://nav.no` ikke er det samme som `https://nav.no` fordi protokollen er forskjellig mens `https://nav.no` ikke er det samme som `https://nav.no:8080` fordi porten er forskjellig. Ressurser som bilder og style sheets kan lastes fra andre origins, men JavaScript har kun tilgang til den delen av DOM-en som stammer fra samme origin. Cookies sendes (med mindre det er eksplisitt overstyrt) kun tilbake til samme origin. For de tilfellene der man har bruk for å dele mellom ulike origins finnes mekanismen [CORS](#cross-origin-resource-sharing-cors).
 
-#### Security Champion (NAV)
+#### Security Champion (Nav)
 
 Teamets sikkerhetssamvittighet. Ikke nødvendigvis en sikkerhetsekspert, men en person som har sikkerhet mer i bakhodet enn andre. Les mer på siden [«Hva er en Security Champion?»](/docs/security-champion-rolle).
 
